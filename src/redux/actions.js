@@ -40,15 +40,18 @@ export const markIncomplete = (id) => ({
   payload: { id },
 });
 
+// Export a constant function called filterTodos that takes a filter parameter and returns an object with a type property set to FILTER_TODOS and a payload property set to the filter parameter
 export const filterTodos = (filter) => ({
   type: FILTER_TODOS,
   payload: { filter },
 });
 
+// Export a constant function called markAllCompleted that returns an object with a type property set to MARK_ALL_COMPLETED
 export const markAllCompleted = () => ({
   type: MARK_ALL_COMPLETED,
 });
 
+// Export a constant function called updateSearchTerm that takes a searchTerm parameter and returns an object with a type property set to UPDATE_SEARCH_TERM and a payload property set to the searchTerm parameter
 export const updateSearchTerm = (searchTerm) => ({
   type: UPDATE_SEARCH_TERM,
   payload: { searchTerm },
