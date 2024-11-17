@@ -1,6 +1,9 @@
 # ProductivityHub Todo App 📝
 
-TaskTitan is a high-performance to-do list application built with [Vite](https://vitejs.dev/). It helps you stay organized and productive with a clean and intuitive interface.
+
+![image alt](https://github.com/ShiruvatiNarasimha/Todo-List/blob/b6c61ba8bb664899e29a6b8b908be867e36e2d46/Screenshot%202024-11-17%20194319.png)
+
+ProductivityHub Todo App is a high-performance to-do list application built with [Vite](https://vitejs.dev/). It helps you stay organized and productive with a clean and intuitive interface.
 
 ## 🚀 Features
 
