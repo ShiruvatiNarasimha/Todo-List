@@ -14,7 +14,7 @@ TaskTitan is a high-performance to-do list application built with [Vite](https:/
 - **Frontend Framework:** React (or any other used)
 - **Bundler:** Vite
 - **Styling:** Tailwind CSS (or the chosen CSS framework)
-- **State Management:** (e.g., Redux, Context API, or none)
+- **State Management:**  Redux react-icons
 
 
 
