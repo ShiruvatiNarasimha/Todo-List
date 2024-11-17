@@ -14,6 +14,7 @@ import {
 } from "react-icons/fa";
 import { FiEdit } from "react-icons/fi";
 
+// This function is a React component that displays a single todo item
 const TodoItem = ({ todo, index }) => {
   const dispatch = useDispatch();
 
